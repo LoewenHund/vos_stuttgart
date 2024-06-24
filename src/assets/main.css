@@ -12,9 +12,9 @@ background-color: rgba(23, 111, 184, 0.425);
 }
 
 a,
-.green {
+.blue {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  color: rgb(21, 32, 185);
   transition: 0.4s;
   padding: 3px;
 }
@@ -36,4 +36,5 @@ a,
     grid-template-columns: 1fr 1fr;
     padding: 0 2rem;
   }
+
 }
