@@ -8,7 +8,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <img alt="CC" class="logo" src="./assets/cc_logo_2.png" width="325" height="175" />
 
     <div class="wrapper">
-      <HelloWorld msg="Wilkommen auf ComputaCenter" />
+      <HelloWorld msg="Wilkommen bei ComputaCenter" />
     </div>
   </header>
 
