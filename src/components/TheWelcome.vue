@@ -38,7 +38,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
     <br />
 
-    More instructions are available in <code>README.md</code>.
+
   </WelcomeItem>
 
   <WelcomeItem>
@@ -47,14 +47,8 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Für Anfänger</template>
 
-    Get official tools and libraries for your project:
-    <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
-    <a href="https://router.vuejs.org/" target="_blank" rel="noopener">Vue Router</a>,
-    <a href="https://test-utils.vuejs.org/" target="_blank" rel="noopener">Vue Test Utils</a>, and
-    <a href="https://github.com/vuejs/devtools" target="_blank" rel="noopener">Vue Dev Tools</a>. If
-    you need more resources, we suggest paying
-    <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">Awesome Vue</a>
-    a visit.
+   Hier werden bald Links und oder Tipps stehen um das einarbeiten noch einfacher zu machen. 
+    
   </WelcomeItem>
 
   <WelcomeItem>
@@ -63,16 +57,10 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>ComputaCenter News</template>
 
-    Got stuck? Ask your question on
-    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
-    Discord server, or
-    <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
-      >StackOverflow</a
-    >. You should also subscribe to
-    <a href="https://news.vuejs.org" target="_blank" rel="noopener">our mailing list</a> and follow
-    the official
-    <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
-    twitter account for latest news in the Vue world.
+   Willst du dich up to Date halten? dann kannst du dich hier Informieren  
+    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">ComputaCenter.</a>
+    
+   
   </WelcomeItem>
 
   <WelcomeItem>
@@ -81,8 +69,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Support UHD</template>
 
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+    Falls irgendwelche Anliegen geben sollte, kann man sich gerne an das UHD Melden. 
+    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">Hier Geht es zum UHD</a>.
   </WelcomeItem>
 </template>
