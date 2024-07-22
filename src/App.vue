@@ -1,10 +1,17 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
+import Navbar from './components/Navbar.vue';
+
 </script>
 
 <template>
-  <header>
+  
+  <header >
+  <div class="navbar">
+    <h1 >kleiner  Huhrensohn mach dein Job und gib mir NAVBAR</h1>
+  </div>
+  
     <img alt="CC" class="logo" src="./assets/cc_logo_2.png" width="325" height="175" />
 
     <div class="wrapper">

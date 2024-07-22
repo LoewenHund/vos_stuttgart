@@ -5,7 +5,9 @@ import ToolingIcon from './icons/IconTooling.vue'
 import EcosystemIcon from './icons/IconEcosystem.vue'
 import CommunityIcon from './icons/IconCommunity.vue'
 import SupportIcon from './icons/IconSupport.vue'
+import Navbar from './Navbar.vue'
 </script>
+
 
 <template>
   <WelcomeItem>
@@ -72,4 +74,7 @@ import SupportIcon from './icons/IconSupport.vue'
     Falls irgendwelche Anliegen geben sollte, kann man sich gerne an das UHD Melden. 
     <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">Hier Geht es zum UHD</a>.
   </WelcomeItem>
+
+
+
 </template>

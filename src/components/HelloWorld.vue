@@ -16,7 +16,10 @@ defineProps({
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Spezialisierte Kollegen.</a>
     </h3>
   </div>
+  
 </template>
+
+
 
 <style scoped>
 h1 {
