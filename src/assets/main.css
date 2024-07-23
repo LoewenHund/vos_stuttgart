@@ -1,17 +1,28 @@
 @import './base.css';
 
 #app {
-  max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   font-weight: normal;
+
 }
 
-.background {
-background-color: rgba(23, 111, 184, 0.425);
+
+a {
+  transition: 0.4s;
+  padding: 3px;
+  text-decoration: none;
 }
 
-a,
+.white {
+  color: rgb(221, 224, 228);
+}
+
+
+.imgindex{
+  margin-top: -50%;
+  
+}
+
 .blue {
   text-decoration: none;
   color: rgb(21, 32, 185);
@@ -34,9 +45,8 @@ a,
   #app {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
+  
   }
 
 }
-
 
