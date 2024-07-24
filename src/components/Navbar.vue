@@ -14,7 +14,8 @@
       <li><a class="white" href="#contact">Für Anfänger</a></li>
       <li><a class="white" href="#about">News</a></li>
       <li><a class="white" href="#about">Support</a></li>
-      
+      <button class="bkontakt"> Kontakt</button>
+
    
    
     </ul>
@@ -43,5 +44,11 @@ li {
   padding-top: 8px;
   margin-left: 5%;
 
+}
+.bkontakt{
+  color: aliceblue;
+  background-color: rgb(17, 16, 16);
+  
+  
 }
 </style>
