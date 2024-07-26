@@ -9,7 +9,7 @@
 <template>
    <ul>
       <img src="/cc_logo_2.png" href="#index" alt="CC Logo" width="80" height="50" class="imgindex">
-      <li><a class="white" href="#home">Dokumentation</a></li>
+      <li><a class="white" href="#/Dokumentation">Dokumentation</a></li>
       <li><a class="white" href="#news">Tool</a></li>
       <li><a class="white" href="#contact">Für Anfänger</a></li>
       <li><a class="white" href="#about">News</a></li>
@@ -50,5 +50,14 @@ li {
   background-color: rgb(17, 16, 16);
   
   
+}
+
+
+@media screen (min-width: 1024px) {
+
+ .imgindex {
+  
+
+ }
 }
 </style>

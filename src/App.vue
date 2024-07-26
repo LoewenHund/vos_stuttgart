@@ -8,16 +8,15 @@ import Navbar from './components/Navbar.vue';
 
 <template>
   
-
-  <div>
-      <Navbar />
-  </div>
-    <img alt="CC" class="logo" src="./assets/cc_logo_2.png" width="325" height="175" />
-
-<div class="wrapper">
-  <HelloWorld msg="Wilkommen bei ComputaCenter" />
+<Navbar />
  
-</div>
+<Homepage/>
+
+ 
+
+
+
+
  
 </template>
 
@@ -49,4 +48,8 @@ import Navbar from './components/Navbar.vue';
   }
 }
 
+.yamoto  {
+  justify-content:center!important;
+  
+}
 </style>

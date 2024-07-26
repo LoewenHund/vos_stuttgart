@@ -1,8 +1,6 @@
 @import './base.css';
 
-#app {
-   font-weight: normal;
-}
+
 
 
 a {
@@ -42,10 +40,7 @@ a {
     
   }
 
-  #app {
-    display: grid;
  
-  }
   button:hover {
     background-color: hsla(246, 77%, 49%, 0.521);
     border-radius: 3%;

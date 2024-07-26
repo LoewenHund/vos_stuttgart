@@ -55,7 +55,7 @@
 *::after {
   box-sizing: border-box;
   margin: 0;
-  font-weight: normal;
+
 }
 
 body {
@@ -80,7 +80,7 @@ body {
     'Droid Sans',
     'Helvetica Neue',
     sans-serif;
-  font-size: 25px;
+ 
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
