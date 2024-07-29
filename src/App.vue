@@ -15,9 +15,28 @@ import Navbar from './components/Navbar.vue';
  
 
 
+<div class="shit">
+
+<table class="shittable">
+  <tr>
+    <!--Space-->
+    <br>
+    <br>
+    <!--Space-->
+  </tr>  
+  <tr>  
+  <td class="bausteinr">
+Text um irgendwie ein index zu haben was nicht so kacke aussieht (keine Ahnung wird eh von Chat GPT erledigt)
+
+  </td>
+</tr>
+
+</table>
+  
+
+</div>
 
 
- 
 </template>
 
 <style scoped>

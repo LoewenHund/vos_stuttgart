@@ -33,7 +33,7 @@ ul {
   width: 100%;
   background-color: rgb(17, 16, 16);
   text-align: left;
-mix-blend-mode:color-burn;
+  /*mix-blend-mode:color-burn;*/
 
 }
 
@@ -48,8 +48,6 @@ li {
 .bkontakt{
   color: aliceblue;
   background-color: rgb(17, 16, 16);
-  
-  
 }
 
 

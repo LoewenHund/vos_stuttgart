@@ -26,6 +26,28 @@ a {
 }
 
 
+.bausteinr{
+  color:red;
+  width: 400px;
+
+}
+.shittable {
+ justify-content: center;
+}
+.shit {
+ 
+  color:aliceblue;
+
+  /* Rectangle 22 */
+
+position: absolute;
+width: 100%;
+height: 250px;
+
+background: #131316;
+
+}
+
 @media (hover: hover) {
   a:hover {
     background-color: hsla(246, 77%, 49%, 0.521);
