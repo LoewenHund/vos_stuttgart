@@ -1,6 +1,6 @@
 /* color palette from <https://github.com/vuejs/theme> */
 :root {
-  --vt-c-white: linear-gradient(14.64deg, #224663 16.96%, #224663 16.97%, #B2B9BE 57.11%, #FFFFFF 69.56%, #C9DDED 78.39%, #87B6DC 88.43%, #8BA7BD 97.26%);
+  --vt-c-white: linear-gradient(6.90deg, #224663 16.96%, #224663 16.97%, #B2B9BE 57.11%, #FFFFFF 69.56%, #C9DDED 78.39%, #87B6DC 88.43%, #8BA7BD 97.26%);
   --vt-c-white-soft: #dddada;
   --vt-c-white-mute: #f2f2f2;
 

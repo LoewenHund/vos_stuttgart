@@ -33,7 +33,7 @@ ul {
   width: 100%;
   background-color: rgb(17, 16, 16);
   text-align: left;
-
+mix-blend-mode:color-burn;
 
 }
 
@@ -53,11 +53,5 @@ li {
 }
 
 
-@media screen (min-width: 1024px) {
 
- .imgindex {
-  
-
- }
-}
 </style>
