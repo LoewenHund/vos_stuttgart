@@ -27,7 +27,12 @@ import Navbar from './components/Navbar.vue';
   <tr>  
   <td class="bausteinr">
 Text um irgendwie ein index zu haben was nicht so kacke aussieht (keine Ahnung wird eh von Chat GPT erledigt)
+Fick diesen kasten, der soll sich mal wo anders bewegt. 
 
+  </td>
+  <td class="bausteinl">
+    Text um irgendwie ein index zu haben was nicht so kacke aussieht (keine Ahnung wird eh von Chat GPT erledigt)
+Fick diesen kasten, der soll sich mal wo anders bewegt. 
   </td>
 </tr>
 
