@@ -8,7 +8,7 @@
 
 <template>
    <ul id="grid-container">
-      <img src="/cc_logo_2.png" href="#index" alt="CC Logo" width="80" height="50" class="imgindex">
+      <img src="/Logo_suit.png" href="#index" alt="CC Logo" width="80" height="50" class="imgindex">
       <li><a class="white" href="#/Dokumentation">Dokumentation</a></li>
       <li><a class="white" href="#news">Tool</a></li>
       <li><a class="white" href="#contact">Anfänger</a></li>
@@ -34,7 +34,7 @@ ul {
   background-color: rgb(17, 16, 16);
   text-align: left;
   /*mix-blend-mode:color-burn;*/
-
+  z-index: 10;
 }
 
 li {

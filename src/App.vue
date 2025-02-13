@@ -2,8 +2,9 @@
 import HelloWorld from './components/HelloWorld.vue'
 //import TheWelcome from './components/TheWelcome.vue'; (wird für andere Seiten genutzt)
 import Navbar from './components/Navbar.vue';
-
-
+import Avatar from './components/Avatar.vue';
+let titel = "Willkommen bei ComputaCenter";
+titel = titel.toUpperCase();
 </script>
 
 <template>
@@ -12,7 +13,11 @@ import Navbar from './components/Navbar.vue';
  
 <Homepage/>
 
+ <div>
+  <h1 id="titel"> Willkommen auf meiner Seite </h1>
  
+  <img src="/Logo_suit.png" href="#index" alt="Logo" width="400" height="250" class="imghomepage">
+ </div>
 
 
 <div class="shit">
@@ -45,13 +50,6 @@ Fick diesen kasten, der soll sich mal wo anders bewegt.
 </template>
 
 <style scoped>
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-  padding-left: 10%;
-  margin: 0 2rem 0 0;
-}
 
 @media (min-width: 1024px) {
   header {
